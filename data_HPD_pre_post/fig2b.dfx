@@ -1,0 +1,7 @@
+id	a	name	preTotal	postTotal	preSoleN	postSoleN	interN	driver_preSole	driver_postSole	driver_inter	mut_preSole	mut_postSole	mut_inter
+HPD1	A04569	张毅	7	7	3	3	4	['CDKN2A', 'MYC', 'CDKN2B']	['PALB2', 'PIK3CD', 'CCND2']	['MCL1', 'TP53', 'CCNE1', 'AKT2']	['CDKN2AINS', 'CDKN2BINS', 'MYCINS']	['PIK3CDINS', 'CCND2INS', 'PALB2p.K1048R']	['CCNE1INS', 'MCL1INS', 'AKT2INS', 'TP53p.C242fs']
+HPD2	A05812	陆超	8	10	0	2	8	[]	['RB1', 'EPHA3']	['FGF3', 'FGF4', 'CDKN2B', 'CCND1', 'TP53', 'SMARCA4', 'CDKN2A', 'FGF19']	[]	['RB1DEL', 'EPHA3INS']	['SMARCA4p.Q1480*', 'FGF19INS', 'FGF4INS', 'FGF3INS', 'CDKN2BDEL', 'CDKN2ADEL', 'CCND1INS', 'TP53p.I162F']
+HPD3	A06935	闫秀红	3	4	0	1	3	[]	['CDKN2A']	['TP53', 'CCNE1', 'MYC']	[]	['CDKN2ADEL']	['TP53p.D259Y', 'CCNE1INS', 'MYCINS']
+HPD4	A11906	刘香敏	9	4	5	0	4	['FGF4', 'PALB2', 'CCND1', 'FGF19', 'RB1']	[]	['CDKN2A', 'MYC', 'TP53', 'KRAS']	['PALB2p.S1084*', 'FGF19INS', 'FGF4INS', 'RB1DEL', 'CCND1INS']	[]	['KRASINS', 'CDKN2Ap.A76fs', 'TP53p.H214fs', 'MYCINS']
+HPD5	A11907	孙敬伟	4	1	3	0	1	['MCL1', 'SMO', 'MYC']	[]	['TP53']	['MYCINS', 'MCL1INS', 'SMOINS']	[]	['TP53p.M237fs']
+HPD6	A11908	张孟康	3	2	1	0	2	['MYC']	[]	['TP53', 'KRAS']	['MYCINS']	[]	['TP53p.A159F', 'KRASINS']
